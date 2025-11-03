@@ -93,3 +93,15 @@ body {
     color: #4a90e2;
     text-decoration: none;
 }
+
+.input-group input.error {
+    border-color: #e74c3c;
+}
+input-group input.success {
+    border-color: #2ecc71;
+}
+.error-message {
+    color: #e74c3c;
+    font-size: 0.875rem;
+    margin-top: 0.25rem;
+}
